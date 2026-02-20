@@ -44,8 +44,6 @@
 
 ### 📊 My GitHub Stats
 
-![Vadym's Stats](https://github-readme-stats.vercel.app/api?username=VadymMazur&show_icons=true&theme=radical&count_private=true)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VadymMazur&theme=radical)](https://git.io/streak-stats)
 
 ---
