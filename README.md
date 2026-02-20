@@ -43,7 +43,7 @@
 ---
 
 ### 📊 My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Vadym_Mazur&show_icons=true&theme=radical)
+![Vadym's GitHub stats](https://github-readme-stats.vercel.app/api?username=VadymMazur&show_icons=true&theme=radical)
 
 ---
 
