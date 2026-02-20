@@ -38,12 +38,12 @@
 
 #### 📊 Analytics & CRM
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
-![KeepinCRM](https://img.shields.io/badge/KeepinCRM-FFD700?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA&logoColor=black)
+![KeepinCRM](https://img.shields.io/badge/KeepinCRM-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 ---
 
 ### 📊 My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=VadymMazur&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Vadym_Mazur&show_icons=true&theme=radical)
 
 ---
 
