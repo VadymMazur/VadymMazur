@@ -70,9 +70,11 @@
 
 ### 📊 My GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VadymMazur&show_icons=true&theme=radical&hide_border=true)](https://github.com/VadymMazur)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VadymMazur&theme=radical&hide_border=true)](https://git.io/streak-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VadymMazur&layout=compact&theme=radical&hide_border=true)](https://github.com/VadymMazur)
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=VadymMazur&theme=radical&hide_border=true" alt="GitHub Streak">
+</a>
+
+<img src="https://ghchart.rshah.org/FF3860/VadymMazur" alt="VadymMazur's contribution graph" width="100%">
 
 ---
 
