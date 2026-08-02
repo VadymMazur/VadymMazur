@@ -2,10 +2,10 @@
 
 ### QA Engineer | Manual & Automation Testing
 
-- 🛡️ **Focus:** Ensuring software quality through analytical thinking and automation
-- 🐍 **Automation:** Python + Playwright / Selenium, Pytest, Allure Report
-- ⚡ **Goal:** Building robust test suites that catch bugs before they reach production
-- 🌍 **Location:** Ukraine
+-  **Focus:** Ensuring software quality through analytical thinking and automation
+-  **Automation:** Python + Playwright / Selenium, Pytest, Allure Report
+-  **Goal:** Building robust test suites that catch bugs before they reach production
+-  **Location:** Ukraine
 
 ---
 
