@@ -28,8 +28,12 @@ jobs:
           USERNAME: VadymMazur
           THEME: github
           NAME: Vadym Mazur
-          ANIMATION: none
+          ANIMATION: ''
           AUTO_PUSH: false
+
+      # Each generator invocation removes its previous output directory.
+      - name: Preserve the light card before generating the dark theme
+        run: cp profile-summary-card-output/github/0-profile-details.svg profile-summary-light.svg
 
       - name: Generate dark theme
         uses: vn7n24fzkq/github-profile-summary-cards@09ba4dde3f9b05828cb99553561db3f4ff07703f
@@ -39,7 +43,7 @@ jobs:
           USERNAME: VadymMazur
           THEME: github_dark
           NAME: Vadym Mazur
-          ANIMATION: none
+          ANIMATION: ''
           AUTO_PUSH: false
 
       - name: Validate and retain only the profile cards
@@ -52,12 +56,12 @@ jobs:
           output = Path('assets')
           output.mkdir(exist_ok=True)
           for theme, filename in [('github', 'github-stats-light.svg'), ('github_dark', 'github-stats-dark.svg')]:
-              source = Path('profile-summary-card-output') / theme / '0-profile-details.svg'
+              source = Path('profile-summary-light.svg') if theme == 'github' else Path('profile-summary-card-output') / theme / '0-profile-details.svg'
               root = ET.parse(source).getroot()
               assert root.tag == '{http://www.w3.org/2000/svg}svg', 'Expected an SVG card'
               text = ' '.join(root.itertext())
               assert 'Vadym Mazur' in text, 'Missing profile title'
-              assert 'Contributions' in text, 'Missing contribution statistics'
+              assert 'contributions in the last year' in text.lower(), 'Missing contribution statistics'
               assert not any(el.tag.rsplit('}', 1)[-1] == 'script' for el in root.iter()), 'Unexpected script'
               shutil.copyfile(source, output / filename)
 
