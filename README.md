@@ -1,4 +1,4 @@
-# Hi there, I'm Vadym 👋
+# Hi there, I'm Vadym
 
 ### QA Engineer | Manual & Automation Testing
 
@@ -29,52 +29,79 @@ Documented a reproducible connection failure using UI and network evidence, with
 
 ---
 
-###  Tech Stack & Tools
+### Tech Stack & Tools
 
-####  Programming & Test Automation
+#### Automation
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Allure Report](https://img.shields.io/badge/Allure%20Report-FF7043?style=for-the-badge&logo=qameta&logoColor=white)
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack/python-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack/python-light.svg">
+  <img alt="Python" src="./assets/stack/python-light.svg" width="100" height="82">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack/playwright-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack/playwright-light.svg">
+  <img alt="Playwright" src="./assets/stack/playwright-light.svg" width="100" height="82">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack/pytest-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack/pytest-light.svg">
+  <img alt="pytest" src="./assets/stack/pytest-light.svg" width="100" height="82">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack/selenium-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack/selenium-light.svg">
+  <img alt="Selenium" src="./assets/stack/selenium-light.svg" width="100" height="82">
+</picture>
+</p>
 
-####  Performance & CI/CD
+#### API & Data
 
-![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack/postman-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack/postman-light.svg">
+  <img alt="Postman" src="./assets/stack/postman-light.svg" width="100" height="82">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack/postgresql-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack/postgresql-light.svg">
+  <img alt="PostgreSQL" src="./assets/stack/postgresql-light.svg" width="100" height="82">
+</picture>
+</p>
 
-####  Web & API Testing
+#### Testing & CI
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack/git-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack/git-light.svg">
+  <img alt="Git" src="./assets/stack/git-light.svg" width="100" height="82">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack/githubactions-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack/githubactions-light.svg">
+  <img alt="GitHub Actions" src="./assets/stack/githubactions-light.svg" width="100" height="82">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack/jira-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack/jira-light.svg">
+  <img alt="Jira" src="./assets/stack/jira-light.svg" width="100" height="82">
+</picture>
+</p>
 
-####  Mobile Testing
+**Reporting & performance:** Allure Report · Apache JMeter
 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+<details>
+<summary>Other tools</summary>
 
-####  Databases, Version Control & IDE
+- **Web & mobile:** Swagger, Chrome DevTools, Android Studio
+- **Development:** GitHub, PyCharm, Visual Studio Code
+- **Test management & collaboration:** Confluence, TestRail, Trello, Notion, Slack
+- **Analytics & CRM:** Google Analytics, KeepinCRM
 
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-####  Test Management & Collaboration
-
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-![TestRail](https://img.shields.io/badge/TestRail-3E7BB2?style=for-the-badge&logo=testrail&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=trello&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-
-####  Analytics & CRM
-
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
-![KeepinCRM](https://img.shields.io/badge/KeepinCRM-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+</details>
 
 ---
 
@@ -98,7 +125,7 @@ Documented a reproducible connection failure using UI and network evidence, with
 
 ---
 
-### 📫 Connect with me
+### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vadym-mazur-qa/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/vadimX9)
