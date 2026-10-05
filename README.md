@@ -65,6 +65,11 @@ Documented a reproducible connection failure using UI and network evidence, with
   <img alt="Postman" src="./assets/stack/postman-light.svg" width="100" height="82">
 </picture>
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack/bruno-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack/bruno-light.svg">
+  <img alt="Bruno" src="./assets/stack/bruno-light.svg" width="100" height="82">
+</picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/stack/postgresql-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/stack/postgresql-light.svg">
   <img alt="PostgreSQL" src="./assets/stack/postgresql-light.svg" width="100" height="82">
