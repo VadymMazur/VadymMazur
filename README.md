@@ -9,6 +9,26 @@
 
 ---
 
+## Featured QA Cases
+
+### API validation: reserved lead status
+
+Found that lead creation accepts a status reserved for conversion. Documented the unexpected HTTP 201 response, failed Postman assertions, and persisted inconsistent state through a follow-up GET.
+
+**Skills:** API testing · Postman · Negative testing · Data validation
+
+[View API case study (PDF, 5 pages)](https://github.com/VadymMazur/Portfolio/blob/main/Bug_Reports/TC-API-LEAD-006_QA_Case.pdf)
+
+### Telegram integration: connection failure
+
+Documented a reproducible connection failure using UI and network evidence, with clear reproduction steps and follow-up investigation. Root cause remains unconfirmed; token validity was not independently verified.
+
+**Skills:** Manual testing · Chrome DevTools · Defect reporting
+
+[View Telegram case study (PDF, 2 pages)](https://github.com/VadymMazur/Portfolio/blob/main/Bug_Reports/CQ-2_Telegram_QA_Case.pdf)
+
+---
+
 ###  Tech Stack & Tools
 
 ####  Programming & Test Automation
