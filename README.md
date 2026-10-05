@@ -88,13 +88,13 @@ Documented a reproducible connection failure using UI and network evidence, with
 
 ---
 
-###  My GitHub Stats
+### GitHub Activity
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=VadymMazur&theme=radical&hide_border=true" alt="GitHub Streak">
-</a>
-
-<img src="https://ghchart.rshah.org/FF3860/VadymMazur" alt="VadymMazur's contribution graph" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-stats-light.svg">
+  <img alt="Vadym Mazur's GitHub activity and contribution summary" src="./assets/github-stats-light.svg" width="100%">
+</picture>
 
 ---
 
