@@ -1,11 +1,12 @@
-# Hi there, I'm Vadym
+# Vadym Mazur
 
 ### QA Engineer | Manual & Automation Testing
 
--  **Focus:** Ensuring software quality through analytical thinking and automation
--  **Automation:** Python + Playwright / Selenium, Pytest, Allure Report
--  **Goal:** Building robust test suites that catch bugs before they reach production
--  **Location:** Ukraine
+I test web interfaces and APIs, focusing on validation, error handling, and data consistency. I write UI and API checks in Python with Playwright and pytest, and document defects with reproduction steps and supporting evidence.
+
+My [QA portfolio](https://github.com/VadymMazur/Portfolio) contains defect reports, risk-based test design, SQL checks, and performance-testing exercises. The [automation repository](https://github.com/VadymMazur/autotest_ui) shows test structure, Page Objects, UI/API assertions, and Allure reporting.
+
+**Based in Ukraine.**
 
 ---
 
@@ -134,4 +135,4 @@ Documented a reproducible connection failure using UI and network evidence, with
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vadym-mazur-qa/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/vadimX9)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vic4511722@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vadik.mazur@gmail.com)
